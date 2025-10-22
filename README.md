@@ -128,7 +128,7 @@ ModbusLite_Arduino/
 
 ```bash
 
-git clone https://github.com/&lt;your-org&gt;/ModbusLite_Arduino.git
+git clone https://github.com/vinayraj02/ModbusLite_Arduino
 ```
 
 1.  Open Arduino IDE → File → Examples → ModbusLite_Arduino
