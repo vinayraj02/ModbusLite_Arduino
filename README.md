@@ -130,7 +130,7 @@ ModbusLite_Arduino/
 
 3. Select your Opta board and upload one of the example sketches.
 
-🧪 Testing
+##🧪 Testing
 
 Use any of the following setups:
 
@@ -140,7 +140,7 @@ Use any of the following setups:
 
 ⚙️ Two Opta boards for end-to-end industrial testing
 
-🧮 Example Output
+##🧮 Example Output
 TCP Master Example
 === Opta Modbus TCP Master ===
 Local IP: 192.168.1.177
@@ -160,13 +160,13 @@ RTU Slave Example
 [INFO] HoldingReg[0] = 42
 [INFO] HoldingReg[0] = 43
 
-📜 License
+##📜 License
 
 This library is licensed under the MIT License.
 See the LICENSE
  file for full details.
 
-🤝 Contribution
+##🤝 Contribution
 
 Pull requests are welcome!
 If you find an issue, open a GitHub issue with:
@@ -179,7 +179,7 @@ Short description of the problem
 
 All contributions that improve stability, performance, or Modbus compliance are encouraged.
 
-🧭 Future Development
+##🧭 Future Development
 
 🔄 Hybrid TCP↔RTU gateway mode
 
@@ -189,8 +189,8 @@ All contributions that improve stability, performance, or Modbus compliance are 
 
 ☁️ Integration with Opta’s secure MQTT edge gateway layer
 
-🤵 Maintained By
-VK
+##🤵 Maintained By
+      VK
 
 Reliable • Lightweight • Cross-Platform
 
