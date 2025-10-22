@@ -126,3 +126,74 @@ ModbusLite_Arduino/
 1. Clone or download this repository into your Arduino `libraries` folder:
    ```bash
    git clone https://github.com/<your-org>/ModbusLite_Arduino.git
+2. Open Arduino IDE → File → Examples → ModbusLite_Arduino
+
+3. Select your Opta board and upload one of the example sketches.
+
+🧪 Testing
+
+Use any of the following setups:
+
+🖥 QModMaster / Modbus Poll for PC-based TCP testing
+
+🧩 Raspberry Pi with ModbusLite SDK as the TCP or RTU counterpart
+
+⚙️ Two Opta boards for end-to-end industrial testing
+
+🧮 Example Output
+TCP Master Example
+=== Opta Modbus TCP Master ===
+Local IP: 192.168.1.177
+Connecting to Modbus slave...
+[OK] Connected to Modbus slave.
+Read Holding Registers:
+  Reg[0] = 29
+  Reg[1] = 10
+  Reg[2] = 20
+  Reg[3] = 30
+  Reg[4] = 40
+[OK] Write success.
+
+RTU Slave Example
+=== Opta Modbus RTU Slave ===
+[INFO] RS485 initialized and listening...
+[INFO] HoldingReg[0] = 42
+[INFO] HoldingReg[0] = 43
+
+📜 License
+
+This library is licensed under the MIT License.
+See the LICENSE
+ file for full details.
+
+🤝 Contribution
+
+Pull requests are welcome!
+If you find an issue, open a GitHub issue with:
+
+Your Opta board type
+
+Example sketch name
+
+Short description of the problem
+
+All contributions that improve stability, performance, or Modbus compliance are encouraged.
+
+🧭 Future Development
+
+🔄 Hybrid TCP↔RTU gateway mode
+
+🧰 Modbus diagnostics and hex frame monitor
+
+⚡ Async callback support
+
+☁️ Integration with Opta’s secure MQTT edge gateway layer
+
+🤵 Maintained By
+VK
+
+Reliable • Lightweight • Cross-Platform
+
+---
+
+Would you like me to append a small **“About ModbusLite SDK family”** section at the bottom (to link 
