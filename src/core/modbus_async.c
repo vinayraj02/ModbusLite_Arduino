@@ -1,6 +1,5 @@
-// core/modbus_async.c
 #include "modbus_context.h"
-//#include "modbus_core.c" /* we rely on builders defined there */
+//#include "modbus_core.c"
 #include <string.h>
 #include <Arduino.h>
 
@@ -48,3 +47,4 @@ int modbus_async_poll(ModbusContext *ctx) {
     }
     return 0;
 }
+
