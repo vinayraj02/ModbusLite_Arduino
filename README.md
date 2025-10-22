@@ -218,4 +218,4 @@ The ModbusLite SDK family is a suite of robust, interoperable libraries designed
 
 Both share a unified core architecture, ensuring **zero-friction interoperability**. Deploy Opta as a field controller alongside Linux-based orchestration — or bridge them effortlessly for hybrid networks. Built for reliability in mission-critical automation.
 
-[Explore the Linux SDK](https://github.com/%3Cyour-org%3E/ModbusLite_Linux) | [Join the Family](mailto:contact@modbuslite.com)
+[Explore the Linux SDK](https://github.com/%3Cyour-org%3E/ModbusLite_Linux) | [Join the Family](mailto:contact@bvk.raj2@gmail.com)
