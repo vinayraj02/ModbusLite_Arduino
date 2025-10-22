@@ -126,9 +126,10 @@ ModbusLite_Arduino/
 
 1.  Clone or download this repository into your Arduino libraries folder:
 
-bash
+```bash
 
 git clone https://github.com/&lt;your-org&gt;/ModbusLite_Arduino.git
+```
 
 1.  Open Arduino IDE → File → Examples → ModbusLite_Arduino
 2.  Select your Opta board and upload one of the example sketches.
