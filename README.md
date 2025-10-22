@@ -30,12 +30,12 @@ However, standard Arduino Modbus libraries are **too heavy**, **unstable**, or *
 
 **🚀 Key Features**
 
-- ✅ **Full Modbus/TCP and Modbus/RTU compliance**
-- ✅ **Optimized for Opta’s mbed OS stack** — no crashes or watchdog resets
-- ✅ **Unified ModbusLite API** shared with the Linux SDK
-- ✅ **Lightweight memory footprint** suitable for real-time control
-- ✅ **Asynchronous-ready architecture** for future expansions
-- ✅ **Cross-platform interoperability** with Linux and other controllers
+-  **Full Modbus/TCP and Modbus/RTU compliance**
+-  **Optimized for Opta’s mbed OS stack** — no crashes or watchdog resets
+-  **Unified ModbusLite API** shared with the Linux SDK
+-  **Lightweight memory footprint** suitable for real-time control
+-  **Asynchronous-ready architecture** for future expansions
+-  **Cross-platform interoperability** with Linux and other controllers
 
 **🔧 Supported Modes**
 
