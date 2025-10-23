@@ -79,8 +79,6 @@ This ensures full cross-platform communication between **Opta** and **Linux-base
 
 **🧱 Repository Structure**
 
-text
-
 ModbusLite_Arduino/
 
 ├── src/
