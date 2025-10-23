@@ -144,8 +144,7 @@ Use any of the following setups:
 
 **TCP Master Example**
 
-text
-
+```
 \=== Opta Modbus TCP Master ===
 
 Local IP: 192.168.1.177
@@ -169,9 +168,8 @@ Reg\[4\] = 40
 \[OK\] Write success.
 
 **RTU Slave Example**
-
-text
-
+```
+```
 \=== Opta Modbus RTU Slave ===
 
 \[INFO\] RS485 initialized and listening...
@@ -179,7 +177,7 @@ text
 \[INFO\] HoldingReg\[0\] = 42
 
 \[INFO\] HoldingReg\[0\] = 43
-
+```
 **📜 License**
 
 This library is licensed under the MIT License. See the LICENSE file for full details.
